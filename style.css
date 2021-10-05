@@ -1,0 +1,53 @@
+body {
+    background: orchid;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  #resultado {
+    text-align: center;
+  }
+  
+  #container{
+      text-align: center;
+      background: cornsilk;
+      border-bottom: 20px;
+  }
+
+  #resultado {
+    text-align: center;
+    background: white;
+    border-radius: 20px;
+    margin: 30px;
+    padding: 20px;
+  }
+
+  #btnstart {
+    background: green;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    border-style: 1px;
+  }
+  
+  #btnstop {
+    background: orange;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    border-style: 1px;
+  }
+  
+  #btnreset {
+    background: red;
+    color: white;
+    width: 100px;
+    border-radius: 20px;
+    border-style: 1px;
+  }
